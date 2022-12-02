@@ -5,7 +5,7 @@ A program that processes some data and searches it for a word or a phrase.
 This program requires Java to compile and run.
 
 ## Credits
-**Author:** Mo Balić - [mobalic](https://github.com/mobalic)
+**Author:** Mo Balti - [mobalti](https://github.com/mobalti)
 
 This program is based on Simple Search Engine project on JetBrains Academy.
 
